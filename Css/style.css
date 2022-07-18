@@ -1,9 +1,9 @@
-body{
+body {
     margin: auto;
     width: 60%;
 }
 
-header{
+header {
     display: flex;
     justify-content: center;
     background-color: blue;
@@ -15,7 +15,7 @@ header ul li {
     list-style: none;
 }
 
-section form ul li{
+section form ul li {
     list-style: none;
 }
 
@@ -23,7 +23,7 @@ section form ul li label {
     font-size: 22px;
 }
 
-section{
+section {
     margin-top: 1%;
     display: flex;
     justify-content: center;
@@ -35,7 +35,9 @@ section button {
     font-size: 20px;
 }
 
-table, th, td{
+table,
+th,
+td {
     border: 2px solid black;
     border-collapse: collapse;
     border-radius: 5px;
